@@ -43,14 +43,6 @@ A lightweight yet powerful Customer Relationship Management (CRM) application de
             - Link it to -> RDS Security Group: ALLOW PostgreSQL 5432 from App Security Group
 
 ---
-
-## **Contributors**
-
-👤 **Jace**  
-👤 **JC**  
-👤 **Samantha**  
-👤 **Francis**
-
 ---
 
 ## License
